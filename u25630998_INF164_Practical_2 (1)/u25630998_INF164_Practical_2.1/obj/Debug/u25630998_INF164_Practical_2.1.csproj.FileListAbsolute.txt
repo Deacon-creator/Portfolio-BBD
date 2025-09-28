@@ -1,0 +1,10 @@
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\bin\Debug\u25630998_INF164_Practical_2.1.exe.config
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\bin\Debug\u25630998_INF164_Practical_2.1.exe
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\bin\Debug\u25630998_INF164_Practical_2.1.pdb
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2.1.csproj.AssemblyReference.cache
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2._1.frmTicTacToe.resources
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2._1.Properties.Resources.resources
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2.1.csproj.GenerateResource.cache
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2.1.csproj.CoreCompileInputs.cache
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2.1.exe
+C:\Users\DeaconUP\source\repos\u25630998_INF164_Practical_2.1\obj\Debug\u25630998_INF164_Practical_2.1.pdb

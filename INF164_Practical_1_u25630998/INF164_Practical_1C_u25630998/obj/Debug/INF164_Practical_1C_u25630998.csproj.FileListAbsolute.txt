@@ -1,0 +1,11 @@
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.csproj.AssemblyReference.cache
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.FrmPersonalDetails.resources
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.Properties.Resources.resources
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.csproj.GenerateResource.cache
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.csproj.CoreCompileInputs.cache
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\bin\Debug\INF164_Practical_1C_u25630998.exe.config
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\bin\Debug\INF164_Practical_1C_u25630998.exe
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\bin\Debug\INF164_Practical_1C_u25630998.pdb
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.exe
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.pdb
+C:\Users\DeaconUP\source\repos\INF164_Practical_1C_u25630998\obj\Debug\INF164_Practical_1C_u25630998.frmBiography.resources
