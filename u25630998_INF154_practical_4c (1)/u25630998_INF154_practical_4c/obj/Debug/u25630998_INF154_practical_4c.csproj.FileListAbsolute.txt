@@ -1,0 +1,10 @@
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\bin\Debug\u25630998_INF154_practical_4c.exe.config
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\bin\Debug\u25630998_INF154_practical_4c.exe
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\bin\Debug\u25630998_INF154_practical_4c.pdb
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.csproj.AssemblyReference.cache
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.Form1.resources
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.Properties.Resources.resources
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.csproj.GenerateResource.cache
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.csproj.CoreCompileInputs.cache
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.exe
+C:\Users\DeaconUP\source\repos\u25630998_INF154_practical_4c\obj\Debug\u25630998_INF154_practical_4c.pdb
